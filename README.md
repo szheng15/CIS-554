@@ -1,2 +1,2 @@
 # CSE-581-C-
-The Assignment I did on Syracuse University, CSE 581 C++ class
+The Assignment I did on Syracuse University, CIS 554 C++ class
